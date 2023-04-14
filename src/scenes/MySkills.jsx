@@ -24,7 +24,7 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-          Proficient in designing and implementing NoSQL databases using MongoDB. Experience with React Router for seamless navigation and single-page applications. Solid understanding of HTML5 semantics and structuring web content. Proficient in crafting responsive designs using CSS.Skilled in using npm and yarn for package management and dependency handling.
+          Proficient in designing and implementing NoSQL databases using MongoDB. Experience with React Router for seamless navigation and single-page applications. Javascript notion and solid understanding of HTML5 semantics and structuring web content. Proficient in crafting responsive designs using CSS. Skilled in using npm for package management and dependency handling.
           </p>
         </motion.div>
 

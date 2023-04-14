@@ -1,6 +1,8 @@
 import LineGradient from "../components/LineGradient";
 import { motion } from "framer-motion";
 
+
+
 const container = {
   hidden: {},
   visible: {
@@ -58,9 +60,7 @@ const Projects = () => {
           </div>
         </div>
         <p className="mt-10 mb-10">
-          Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-          fames odio in at. At magna ornare dictum lectus. Purus massa morbi
-          purus nec eget eleifend ut elit.
+          Checkout out some of my latest projects. 
         </p>
       </motion.div>
 
@@ -80,17 +80,54 @@ const Projects = () => {
           >
             BEAUTIFUL USER INTERFACES
           </div>
-          <Project title="Project 1" />
-          <Project title="Project 2" />
+          {/* <Project title="Project 1" />
+          <Project title="Project 2" /> */}
 
           {/* ROW 2 */}
-          <Project title="Project 3" />
-          <Project title="Project 4" />
-          <Project title="Project 5" />
+          {/* <Project title="Project 3"   /> */}
+          {/* <Project title="Project 4" />
+          <Project title="Project 5" /> */}
 
           {/* ROW 3 */}
-          <Project title="Project 6" />
-          <Project title="Project 7" />
+          {/* <Project title="Project 6" /> 
+          <Project title="Project 7" /> */}
+
+          <a
+          className="hover:opacity-50 transition duration-500"
+          href="https://paradosso-debug.github.io/?classId=da9b6370-4d70-4172-a2cb-6f1ce68afa90&assignmentId=d023b268-1a0c-4ca6-b772-05ccd0645d09&submissionId=81abd9d2-f299-dbfb-7089-752802792c7f"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img alt="linkedin-link" src="../assets/project-1.jpg" />
+        </a>
+
+        <a
+          className="hover:opacity-50 transition duration-500"
+          href="https://paradosso-debug.github.io/Restuarant-App/?classId=da9b6370-4d70-4172-a2cb-6f1ce68afa90&assignmentId=83940c9e-2751-42d8-a550-78054ff41901&submissionId=aa5d5dda-0964-82f4-8f39-3d431b11e32e"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img alt="linkedin-link" src="../assets/project-2.jpg" />
+        </a>
+
+          <a
+          className="hover:opacity-50 transition duration-500"
+          href="https://proyecto-dashboard.github.io/Proyecto-Dashboard.io/?classId=da9b6370-4d70-4172-a2cb-6f1ce68afa90&assignmentId=70280d17-c49e-478a-b864-0e95aa054fb2&submissionId=d09aa9ed-e356-69af-88f7-5a49ed92eb0a"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img alt="linkedin-link" src="../assets/project-3.jpg" />
+        </a>
+
+        <a
+          className="hover:opacity-50 transition duration-500"
+          href="https://courageous-puce-dibbler.cyclic.app/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img alt="linkedin-link" src="../assets/project-4.jpg" />
+        </a>
+          
           <div
             className="flex justify-center text-center items-center p-10 bg-blue
               max-w-[400px] max-h-[400px] text-2xl font-playfair font-semibold"
