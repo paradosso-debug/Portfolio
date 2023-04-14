@@ -17,12 +17,11 @@ const Testimonials = () => {
         }}
       >
         <p className="font-playfair font-semibold text-4xl mb-5 text-red">
-          TESTIMONIALS
+          BADGES
         </p>
         <LineGradient width="mx-auto w-2/5" />
         <p className="mt-10">
-          Here's What People are Saying About My Work. Aliquam aliquet integer
-          ut fames odio in at. At magna ornare dictum lectus.
+        Badges obtained for Skills and Achievements from Ucamp, issued by Utel University.
         </p>
       </motion.div>
 
@@ -42,7 +41,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            A auctor pharetra hendrerit mattis amet etiam interdum platea.
+          Fullstack Web Developer - Outstanding Advocate. Developed a website with the intention of promoting a product for sale, corresponding to Project 1: "Sales Landing Page.
           </p>
         </motion.div>
 
@@ -60,8 +59,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            Aliquam aliquet integer ut fames odio in at. At magna ornare dictum
-            lectus.
+          Outstanding Advocate. Developed a website with the intention of promoting a product for sale, and an application where users can add, modify, update, or delete specific data.
           </p>
         </motion.div>
 
@@ -79,7 +77,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            Fames odio in at. At magna ornare dictum lectus.
+          Aplication that features a restaurant presentation, its menu, hours of operation, and contact information. Additionally, a reservation system will be integrated for customers to use.
           </p>
         </motion.div>
       </div>
