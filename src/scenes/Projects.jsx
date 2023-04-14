@@ -98,7 +98,7 @@ const Projects = () => {
           target="_blank"
           rel="noreferrer"
         >
-          <img alt="linkedin-link" src="../assets/project-1.jpg" />
+          <img alt="Landing page" src="../assets/project-1.jpg" />
         </a>
 
         <a
@@ -107,7 +107,7 @@ const Projects = () => {
           target="_blank"
           rel="noreferrer"
         >
-          <img alt="linkedin-link" src="../assets/project-2.jpg" />
+          <img alt="Restaurant-App" src="../assets/project-2.jpg" />
         </a>
 
           <a
@@ -116,7 +116,7 @@ const Projects = () => {
           target="_blank"
           rel="noreferrer"
         >
-          <img alt="linkedin-link" src="../assets/project-3.jpg" />
+          <img alt="Crypto-Dash" src="../assets/project-3.jpg" />
         </a>
 
         <a
@@ -125,7 +125,7 @@ const Projects = () => {
           target="_blank"
           rel="noreferrer"
         >
-          <img alt="linkedin-link" src="../assets/project-4.jpg" />
+          <img alt="Ecommerce-App" src="../assets/project-4.jpg" />
         </a>
           
           <div
