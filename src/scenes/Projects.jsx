@@ -60,7 +60,16 @@ const Projects = () => {
           </div>
         </div>
         <p className="mt-10 mb-10">
-          Checkout out some of my latest projects. 
+          1. Wine website using HTML, CSS and a bit of Javascript. 
+        </p>
+        <p className="mt-10 mb-10">
+          2. A restaurant application with contact information and menu. Additionally, integrated a system for customers to make reservations. CSS, HTML and Javascript was used for this project. 
+        </p>
+        <p className="mt-10 mb-10">
+          3. Crypto Currency website that shows the worth of several different currencies vs crypto currency. Crypto Currency API was used for this project, and HTML, Javascript. 
+        </p>
+        <p className="mt-10 mb-10">
+          4. A FULLSTACK application integrating MONGO, EXPRESS, REACT, and NODEJS, in which a product is sold via online payments. PayPal Sandbox will be used to simulate the payments.
         </p>
       </motion.div>
 
@@ -99,6 +108,7 @@ const Projects = () => {
           rel="noreferrer"
         >
           <img alt="Landing page" src="../assets/project-1.jpg" />
+         
         </a>
 
         <a
@@ -125,9 +135,10 @@ const Projects = () => {
           target="_blank"
           rel="noreferrer"
         >
+          
           <img alt="Ecommerce-App" src="../assets/project-4.jpg" />
         </a>
-          
+        
           <div
             className="flex justify-center text-center items-center p-10 bg-blue
               max-w-[400px] max-h-[400px] text-2xl font-playfair font-semibold"
