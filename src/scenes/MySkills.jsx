@@ -70,7 +70,7 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-          As a passionate and forward-thinking junior developer, I'm dedicated to creating seamless, efficient, and visually stunning web applications. By combining my expertise in cutting-edge technologies like React, Node.js, JavaScript, HTML, CSS and MongoDB with a keen eye for design, I aim to deliver game-changing digital experiences.
+          As a passionate and forward-thinking junior developer, with 7 months of exipiernce, I'm dedicated to creating seamless, efficient, and visually stunning web applications. By combining my expertise in cutting-edge technologies like React, Node.js, JavaScript, HTML, CSS and MongoDB with a keen eye for design, I aim to deliver game-changing digital experiences.
           </p>
         </motion.div>
 
