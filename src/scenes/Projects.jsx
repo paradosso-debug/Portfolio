@@ -60,7 +60,7 @@ const Projects = () => {
           </div>
         </div>
         <p className="mt-10 mb-10">
-          1. Wine website using HTML, CSS and a bit of Javascript. 
+          1. Article Summarizer Application using OPENAI GPT model. React, Tailwind, and Javascript was used in this project. 
         </p>
         <p className="mt-10 mb-10">
           2. A restaurant application with contact information and menu. Additionally, integrated a system for customers to make reservations. CSS, HTML and Javascript was used for this project. 
@@ -103,7 +103,7 @@ const Projects = () => {
 
           <a
           className="hover:opacity-50 transition duration-500"
-          href="https://paradosso-debug.github.io/?classId=da9b6370-4d70-4172-a2cb-6f1ce68afa90&assignmentId=d023b268-1a0c-4ca6-b772-05ccd0645d09&submissionId=81abd9d2-f299-dbfb-7089-752802792c7f"
+          href="https://famous-sopapillas-772b26.netlify.app/"
           target="_blank"
           rel="noreferrer"
         >
