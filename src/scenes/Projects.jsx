@@ -69,7 +69,7 @@ const Projects = () => {
           3. Crypto Currency website that shows the worth of several different currencies vs crypto currency. Crypto Currency API was used for this project, and HTML, Javascript. 
         </p>
         <p className="mt-10 mb-10">
-          4. A FULLSTACK application integrating MONGO, EXPRESS, REACT, and NODEJS, in which a product is sold via online payments. PayPal Sandbox will be used to simulate the payments.
+          4. A Fullstack Application integrating MONGO, EXPRESS, REACT, and NODEJS, in which a product is sold via online payments. PayPal Sandbox will be used to simulate the payments.
         </p>
       </motion.div>
 
