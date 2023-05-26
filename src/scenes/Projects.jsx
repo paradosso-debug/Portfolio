@@ -60,13 +60,13 @@ const Projects = () => {
           </div>
         </div>
         <p className="mt-10 mb-10">
-          1. Article Summarizer Application using OPENAI GPT model. React, Tailwind, and Javascript was used in this project. 
+          1. Article Summarizer Application using OPENAI GPT model. React, TailwindCss, and Javascript was used in this project. 
         </p>
         <p className="mt-10 mb-10">
-          2. A restaurant application with contact information and menu. Additionally, integrated a system for customers to make reservations. CSS, HTML and Javascript was used for this project. 
+          2. Crypto Currency website that shows the worth of several different currencies vs crypto currency. Crypto Currency API was used for this project, and HTML, Javascript. 
         </p>
         <p className="mt-10 mb-10">
-          3. Crypto Currency website that shows the worth of several different currencies vs crypto currency. Crypto Currency API was used for this project, and HTML, Javascript. 
+          3. PromptPedia is a website where one can share, discover and create different ChatGPT prompts using TailwindCss, javascript and MONGODB. 
         </p>
         <p className="mt-10 mb-10">
           4. A Fullstack Application integrating MONGO, EXPRESS, REACT, and NODEJS, in which a product is sold via online payments. PayPal Sandbox will be used to simulate the payments.
@@ -113,20 +113,20 @@ const Projects = () => {
 
         <a
           className="hover:opacity-50 transition duration-500"
-          href="https://paradosso-debug.github.io/Restuarant-App/?classId=da9b6370-4d70-4172-a2cb-6f1ce68afa90&assignmentId=83940c9e-2751-42d8-a550-78054ff41901&submissionId=aa5d5dda-0964-82f4-8f39-3d431b11e32e"
+          href="https://promptpedia-9lel1c3je-paradosso-debug.vercel.app/"
           target="_blank"
           rel="noreferrer"
         >
-          <img alt="Restaurant-App" src="../assets/project-2.jpg" />
+          <img alt="Restaurant-App" src="../assets/project-3.jpg" />
         </a>
 
           <a
           className="hover:opacity-50 transition duration-500"
-          href="https://proyecto-dashboard.github.io/Proyecto-Dashboard.io/?classId=da9b6370-4d70-4172-a2cb-6f1ce68afa90&assignmentId=70280d17-c49e-478a-b864-0e95aa054fb2&submissionId=d09aa9ed-e356-69af-88f7-5a49ed92eb0a"
+          href="https://promptpedia-9lel1c3je-paradosso-debug.vercel.app/"
           target="_blank"
           rel="noreferrer"
         >
-          <img alt="Crypto-Dash" src="../assets/project-3.jpg" />
+          <img alt="PromptPedia page" src="../assets/project-2.jpg" />
         </a>
 
         <a
