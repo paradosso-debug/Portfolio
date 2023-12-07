@@ -140,3 +140,6 @@ const Contact = () => {
 };
 
 export default Contact;
+
+
+// npm run start to start project

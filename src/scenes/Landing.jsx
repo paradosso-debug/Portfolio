@@ -56,7 +56,7 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            A Fullstack Web Developer based in Mexico City. I'm passionate about cutting edge technology, and well desgined websites. 
+            A Fullstack Web Developer based in Mexico City. I'm passionate about cutting edge technology, functional and well desgined websites. 
           </p>
         </motion.div>
 
