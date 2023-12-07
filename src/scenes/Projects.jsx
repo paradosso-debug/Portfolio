@@ -63,7 +63,7 @@ const Projects = () => {
           1. Article Summarizer Application using OPENAI GPT model. React, TailwindCss, and Javascript was used in this project. 
         </p>
         <p className="mt-10 mb-10">
-          2. Crypto Currency website that shows the worth of several different currencies vs crypto currency. Crypto Currency API was used for this project, and HTML, Javascript. 
+          2. This wine-focused landing page, designed with HTML, CSS, and JavaScript, offers a responsive and visually appealing interface. 
         </p>
         <p className="mt-10 mb-10">
           3. PromptPedia is a website where one can share, discover and create different ChatGPT prompts using TailwindCss, javascript and MONGODB. 

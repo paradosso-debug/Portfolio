@@ -1,9 +1,9 @@
 import LineGradient from "../components/LineGradient";
 import { motion } from "framer-motion";
 
-const Testimonials = () => {
+const Badges = () => {
   return (
-    <section id="testimonials" className="pt-32 pb-16">
+    <section id="badges" className="pt-32 pb-16">
       {/* HEADING */}
       <motion.div
         className="md:w-1/3 text-center md:text-left"
@@ -85,4 +85,4 @@ const Testimonials = () => {
   );
 };
 
-export default Testimonials;
+export default Badges;

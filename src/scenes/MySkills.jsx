@@ -24,7 +24,7 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-          Proficient in designing and implementing NoSQL databases using MongoDB. Experience with React Router for seamless navigation and single-page applications. Javascript notion and solid understanding of HTML5 semantics and structuring web content. Proficient in crafting responsive designs using CSS. Skilled in using npm for package management and dependency handling.
+          Skilled in the MERN stack, with proficiency in MongoDB, Express.js, React, and Node.js for full-stack development. Experienced in building dynamic single-page applications using React Router, with a strong foundation in JavaScript, HTML5, and responsive CSS design. Efficient in managing packages with npm and adept in using Vite for frontend tooling.
           </p>
         </motion.div>
 
@@ -70,7 +70,7 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-          As a passionate and forward-thinking junior developer, with 7 months of exipiernce, I'm dedicated to creating seamless, efficient, and visually stunning web applications. By combining my expertise in cutting-edge technologies like React, Node.js, JavaScript, HTML, CSS and MongoDB with a keen eye for design, I aim to deliver game-changing digital experiences.
+          As a junior web developer, I'm actively developing various full-stack and front-end projects, blending modern technologies with creative approaches. My work focuses on creating engaging, user-centric web solutions that stand out in the digital landscape. Each project is an opportunity to innovate and captivate, marking my growth in the ever-evolving world of web development.
           </p>
         </motion.div>
 
@@ -90,13 +90,13 @@ const MySkills = () => {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">02</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Innovative
+              Problem-Solving
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-          A diverse range of web applications, from responsive e-commerce platforms to immersive social networking sites.
+          A as problem-solving and logical thinking individual. I approach issues methodically, focusing on practical and effective outcomes. This ability is key in both team collaboration and independent work, driving projects to success through strategic thinking and clear, reasoned planning.
           </p>
         </motion.div>
         {/* IMAGINATIVE */}
@@ -115,13 +115,13 @@ const MySkills = () => {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">03</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Imaginative
+              "Eager to learn
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-          Enchanted Projects: A captivating assortment of web applications, from delightful e-commerce sites to enthralling social networks, showcasing my command over the arcane arts of HTML, CSS, JavaScript, React, Node.js, and MongoDB.
+          I am deeply curious about full-stack MERN web development, continually exploring new facets of MongoDB, Express.js, React, and Node.js. This thirst for knowledge keeps me updated with the latest trends, pushing me to innovate and refine my skills, ensuring I remain at the cutting edge of web development.
           </p>
         </motion.div>
       </div>
