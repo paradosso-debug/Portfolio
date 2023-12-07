@@ -117,7 +117,7 @@ const Projects = () => {
           target="_blank"
           rel="noreferrer"
         >
-          <img alt="Restaurant-App" src="../assets/project-3.png" />
+          <img alt="Restaurant-App" src="../assets/project-5.jpg" />
         </a>
 
           <a
