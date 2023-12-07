@@ -113,11 +113,11 @@ const Projects = () => {
 
         <a
           className="hover:opacity-50 transition duration-500"
-          href="https://promptpedia-9lel1c3je-paradosso-debug.vercel.app/"
+          href="https://paradosso-debug.github.io/"
           target="_blank"
           rel="noreferrer"
         >
-          <img alt="Restaurant-App" src="../assets/project-3.jpg" />
+          <img alt="Restaurant-App" src="../assets/project-3.png" />
         </a>
 
           <a
